@@ -2,6 +2,11 @@
 
 This project generates a 3D DNA double helix using Procedural Mesh Generation and Phong Lighting.
 
+### Sample Video
+
+https://github.com/user-attachments/assets/7670d264-a316-48b0-80b9-b294bf5ce2a2
+
+
 ## Control
 
 - wasd to move
